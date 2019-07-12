@@ -19,7 +19,7 @@ Flutter provides an easy and productive way to build and deploy high-performance
   s.source_files =  "Classes", "*.{h,m}"
   s.public_header_files = '*.h'
   
-  s.source           = { :path => 'git@github.com:pandaliyaoquan/PandaFlutter.git' }
+  s.source           = { :path => '.' }
 
   s.resources = ['flutter_assets']
 end
